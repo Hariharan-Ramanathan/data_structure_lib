@@ -31,6 +31,18 @@
 
 #include "list/lib.h"
 
+//hashMap
+
+#include "hashTable/headerFiles/int_hash.h"
+
+#include "hashTable/sourceFiles/create.c"
+#include "hashTable/sourceFiles/find.c"
+#include "hashTable/sourceFiles/key.c"
+#include "hashTable/sourceFiles/pop.c"
+#include "hashTable/sourceFiles/push.c"
+
+#include "hashTable/lib.h"
+
 //doubly linked list
 
 #include "dll/headerFiles/int_dll.h"
